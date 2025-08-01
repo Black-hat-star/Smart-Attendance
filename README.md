@@ -60,7 +60,7 @@ Attendance_01-08-2025.csv
 
 📊 View Attendance Records
 Open any Attendance_*.csv file to see who attended and when:
-Name,Time
+Name,Time for e.g. 
 Rajat Sarkar,10:05:23
 
 
