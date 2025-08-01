@@ -35,17 +35,15 @@ Install the following Python packages:
 pip install opencv-python face-recognition numpy pandas
 ```
 create a requirements.txt file:
-txt
-Copy
-Edit
 opencv-python
 face-recognition
 numpy
 pandas
 
 Then install via:
+```
 pip install -r requirements.txt
-
+```
 🚀 Usage
 1️⃣ Register New Faces
 Run the following command to add user faces via webcam:
