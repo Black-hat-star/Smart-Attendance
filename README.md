@@ -47,12 +47,14 @@ pip install -r requirements.txt
 🚀 Usage
 1️⃣ Register New Faces
 Run the following command to add user faces via webcam:
+```
 python Add_faces.py
-
+```
 2️⃣ Run the Attendance System
 Once faces are registered, run the system:
+```
 python app.py
-
+```
 The webcam will open, recognize registered users, and automatically log their name and time in a CSV file like:
 Attendance_01-08-2025.csv
 
