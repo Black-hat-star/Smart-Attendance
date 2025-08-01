@@ -64,7 +64,8 @@ Name,Time for e.g.
 Rajat Sarkar,10:05:23
 
 
-💡 **Notes:**
+💡Notes:
+
 Make sure your webcam is accessible.
 
 Avoid duplicate entries by registering each user only once.
